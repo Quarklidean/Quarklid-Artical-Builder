@@ -12,7 +12,7 @@
     <div id="主体">
       <div id="标题">作文生成器</div>
       <div id="主题">
-        <span>输入题目:</span>
+        <span>题目:</span>
         <input></input>
         <button onclick="生成文章()">生成</button>
       </div>
