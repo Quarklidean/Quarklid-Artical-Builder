@@ -43,7 +43,7 @@
       <div id="文章"></div>
     </div>
     <div id="声明">
-      <p><a class="链接" href="使用说明.">使用说明</a></p>
+      <p><a class="链接" href="使用说明.html">使用说明</a></p>
     </div>
     <div id="页脚">
       <p>
