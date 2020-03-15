@@ -18,7 +18,6 @@
     <a class="链接" href="文章生成器300字.html">   
    <div id="300字以内">
         <span>300字以内</span>
-  
       <a class="链接" href="文章生成器500字.html">     <div id="500字以内">
         <span>500字以内</span>
     
@@ -43,6 +42,7 @@
       <div id="文章"></div>
     </div>
     <div id="声明">
+      <p id="声明文字">请勿将生成的文章用于正规用途</p>
       <p><a class="链接" href="使用说明.html">使用说明</a></p>
     </div>
     <div id="页脚">
