@@ -43,15 +43,14 @@
     </div>
     <div id="声明">
       <p id="声明文字">请勿将生成的文章用于正规用途</p>
-       </div>
-  <p>
-      <p>
       <p><a class="链接" href="https://mp.weixin.qq.com/s/q_8ywyEC9dxGkfaEUyO52w">使用说明</a></p>
     </div>
     <div id="页脚">
       <p>
         
-        </div></html>
+    </div>
+  </body>
+</html>
 
 <script>
 let _hmt = window._hmt || [];
